@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+title: Minimalist Space
+theme: minima
+
+
+# Options: "dark", "classic", or "solarized"
+minima:
+  skin: dark 
+
+# Navigation links 
+header_pages:
+  - README.md
+
+
+# Footer links
+social_links:
+  github: yourusername
+
