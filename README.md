@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4bfd5053-6bac-443d-b2b5-7c445fa3ebfa" width="150" alt="Liam Hunte"/>
+<img src="https://github.com/user-attachments/assets/4bfd5053-6bac-443d-b2b5-7c445fa3ebfa" width="200" alt="Liam Hunte"/>
 
-  # Liam Hunte
-  **Aerospace Engineer · Embedded Systems · Space Systems**
+# Liam Hunte
+**Aerospace Engineer · Embedded Systems · Space Systems**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-liamhunte-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/liamhunte/)
-  [![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/lhunte-innov)
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-liamhunte-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/liamhunte/)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/lhunte-innov)
 
 ## About Me
 
