@@ -5,9 +5,8 @@ subtitle: "Developer Portfolio & Project Hub"
 ---
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/4398340b-aa24-4557-bfda-0a6d9240d7a0" width="516" height="384" style="border-radius: 50%;" alt="Liam Hunte"/>
-
-  **Aerospace Engineer · Embedded Systems · Space Systems**
+  <img src="https://github.com/user-attachments/assets/4398340b-aa24-4557-bfda-0a6d9240d7a0" width="200" style="border-radius: 50%;" alt="Liam Hunte"/>
+  <p><strong>Aerospace Engineer · Embedded Systems · Space Systems</strong></p>
 </div>
 
 
