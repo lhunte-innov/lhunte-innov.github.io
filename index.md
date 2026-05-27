@@ -3,7 +3,7 @@ layout: home
 ---
 
 # Liam Hunte
-<img src="https://github.com/user-attachments/assets/4398340b-aa24-4557-bfda-0a6d9240d7a0" width="516" height="384" alt="Liam Hunte"/>
+<img src="https://github.com/user-attachments/assets/4398340b-aa24-4557-bfda-0a6d9240d7a0" width="516" height="384"/>
 
 
 **Aerospace Engineer · Embedded Systems · Space Systems**
