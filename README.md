@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b273e681-05aa-4e2c-8762-e1c26e70a749" width="200" style="border-radius: 50%;" alt="Liam Hunte"/>
+  <img src="https://github.com/user-attachments/assets/4bfd5053-6bac-443d-b2b5-7c445fa3ebfa" width="150" height="150" style="border-radius: 50%; object-fit: cover; object-position: top;" alt="Liam Hunte"/>
 
   # Liam Hunte
   **Aerospace Engineer · Embedded Systems · Space Systems**
