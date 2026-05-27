@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/4bfd5053-6bac-443d-b2b5-7c445fa3ebfa" width="200" alt="Liam Hunte"/>
+<img src="https://github.com/user-attachments/assets/4398340b-aa24-4557-bfda-0a6d9240d7a0" width="516" height="384" alt="Liam Hunte"/>
+
 
 # Liam Hunte
 **Aerospace Engineer · Embedded Systems · Space Systems**
