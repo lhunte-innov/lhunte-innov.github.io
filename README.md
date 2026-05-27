@@ -18,7 +18,7 @@ During my studies I contributed to a capstone launch vehicle project, cross-disc
 - PCB design, rapid prototyping & additive manufacturing
 - Machine learning (vision, voice, and LLMs)
 - Embedded engineering
-- Patent application authorship: I hold both a non-provisional patent
+- Patent application authorship: I hold a non-provisional patent
 
 ---
 
