@@ -6,8 +6,10 @@ subtitle: "Developer Portfolio & Project Hub"
 
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://github.com/user-attachments/assets/4398340b-aa24-4557-bfda-0a6d9240d7a0" width="516" height="384" style="border-radius: 50%;" alt="Liam Hunte"/>
+
+  **Aerospace Engineer · Embedded Systems · Space Systems**
 </div>
-**Aerospace Engineer · Embedded Systems · Space Systems**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-liamhunte-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/liamhunte/)
 [![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/lhunte-innov)
