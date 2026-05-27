@@ -1,0 +1,17 @@
+/* Changes the eop navigation bar background */
+.navbar-custom {
+    background-color: #800020 !important; /* Deep Burgundy Hex */
+    border-color: #600018 !important;
+}
+
+/* Text links inside the navigation remain readable */
+.navbar-custom .navbar-brand, 
+.navbar-custom .nav li a {
+    color: #ffffff !important;
+}
+
+/* Changes the main homepage header banner background */
+.intro-header {
+    background-color: #800020 !important; /* Deep Burgundy Hex */
+    color: #ffffff !important;
+}
