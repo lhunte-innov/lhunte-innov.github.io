@@ -1,9 +1,12 @@
 ---
 layout: home
+title: "Liam Hunte"
+subtitle: "Developer Portfolio & Project Hub"
 ---
 
 <img src="https://github.com/user-attachments/assets/4398340b-aa24-4557-bfda-0a6d9240d7a0" width="516" height="384"/>
 
+  # Liam Hunte
 **Aerospace Engineer · Embedded Systems · Space Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-liamhunte-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/liamhunte/)
@@ -16,11 +19,13 @@ I'm a self-motivated engineer and inventor with a strong applied research backgr
 During my studies I contributed to a capstone launch vehicle project, cross-disciplinary campus clubs and research labs, and technical coursework spanning aerodynamics, controls, structures, and non-destructive evaluation. I'm also a **Patti Grace Smith Fellow** (Class of 2022).
 
 **Areas of expertise:**
-- System simulation & algorithm development
-- PCB design, rapid prototyping & additive manufacturing
-- Machine learning (vision, voice, and LLMs)
-- Embedded engineering
-- Patent application authorship: I hold a non-provisional patent
+- Rocket propulsion, hypersonic aerodynamics & trajectory simulation
+- PCB design, SoC & FPGA development & embedded systems
+- Machine learning — computer vision, gesture classification, speech classification, TinyML & SLMs/LLMs
+- CFD (Ansys Fluent), CAD (SolidWorks, Fusion 360, CATIA) & FEA (NASTRAN)
+- RF/SDR systems & satellite data pipeline automation
+- Rapid prototyping & additive manufacturing (FDM, SLA, metal)
+- Patent holder — Novel medical imaging system
 
 ---
 
