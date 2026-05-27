@@ -3,15 +3,18 @@
 #author: "Liam Hunte"
 
 # The layout profile settings
-avatar: "/assets/avatar.png" # Path to your uploaded PNG file
+avatar: "/assets/avatar.png" # Path to uploaded PNG file
 
-# Clean Header - leaves only your main text
+# Load custom style
+site-css: "/assets/css/custom.css"
+
+# Clean Header, leaves only main text
 navbar-links:
   GitHub Profile: "https://github.com/lhunte-innov"
 
 # Social Icons that display in the footer
 github-username: "lhunte-innov"
-linkedin-username: "liamhunte" # Optional
+linkedin-username: "liamhunte" 
 
 # System settings to fetch the theme
 plugins:
