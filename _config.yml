@@ -1,13 +1,13 @@
 title: "Liam Hunte"
 subtitle: "Developer Portfolio & Projects"
-author: "Liam Hunte"
+#author: "Liam Hunte"
 
 # The layout profile settings
 avatar: "/assets/avatar.png" # Path to your uploaded PNG file
 
 # Clean Header - leaves only your main text
 navbar-links:
-  GitHub Profile: "https://github.com"
+  GitHub Profile: "https://github.com/lhunte-innov"
 
 # Social Icons that display in the footer
 github-username: "lhunte-innov"
