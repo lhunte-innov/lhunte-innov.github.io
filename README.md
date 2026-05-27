@@ -29,12 +29,6 @@ A Python pipeline for ingesting, analyzing, and prioritizing satellite-collected
 
 [![View on GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/lhunte-innov/geospatial-rf-pipeline)
 
-<!-- Add more projects in this same format:
-### 🔧 Project Name
-Short description here.
-[![View on GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](LINK)
--->
-
 ---
 
 ## Skills
