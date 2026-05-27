@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4bfd5053-6bac-443d-b2b5-7c445fa3ebfa" width="150" height="150" style="border-radius: 50%; object-fit: cover; object-position: top;" alt="Liam Hunte"/>
+  <img src="https://github.com/user-attachments/assets/4bfd5053-6bac-443d-b2b5-7c445fa3ebfa" width="150" alt="Liam Hunte"/>
 
   # Liam Hunte
   **Aerospace Engineer · Embedded Systems · Space Systems**
@@ -21,7 +21,7 @@ During my studies I contributed to a capstone launch vehicle project, cross-disc
 - PCB design, rapid prototyping & additive manufacturing
 - Machine learning (vision, voice, and LLMs)
 - Embedded engineering
-- Patent application authorship — I hold both a provisional and non-provisional patent
+- Patent application authorship: I hold both a non-provisional patent
 
 ---
 
