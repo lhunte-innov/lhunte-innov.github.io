@@ -25,10 +25,6 @@ During my studies I contributed to a capstone launch vehicle project, cross-disc
 
 ## Projects
 
-### 🛰️ Geospatial RF Pipeline
-A Python pipeline for ingesting, analyzing, and prioritizing satellite-collected RF emitter data. Built to automate a manual geospatial validation workflow by assigning each emitter a data-driven priority score and, in later iterations, automatically nominating high-confidence stationary emitters without requiring visual inspection of every detected signal coordinate.
-
-[![View on GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/lhunte-innov/geospatial-rf-pipeline)
 
 ---
 
